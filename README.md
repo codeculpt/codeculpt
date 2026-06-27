@@ -9,8 +9,11 @@ Based in Ontario, working with businesses across Canada and beyond.
 ## What We Do
 
 🌐 **Web Design** — Custom-built sites designed to convert visitors into customers
+
 🛒 **E-Commerce** — Full online stores built to scale, from product pages to checkout
+
 ⚙️ **Web Applications** — Dashboards, client portals, and internal tools built around how you actually work
+
 🔧 **Maintenance & Support** — Ongoing updates, performance, and security so your site never falls behind
 
 ## Why CodeCulpt
