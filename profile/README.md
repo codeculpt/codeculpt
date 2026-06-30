@@ -22,7 +22,19 @@ Based in Ontario, working with businesses across Canada and beyond.
 
 ## Recent Work
 
-*Case studies and live project links coming soon — check back or visit [codeculpt.com](https://codeculpt.com) for current examples.*
+A selection of recent builds — concept work and live client projects:
+
+- **VEND** — lifestyle e-commerce platform concept build
+- **Mako** — restaurant group platform concept build
+- **IRONFORGE** — performance gym platform concept build
+- **9th City Entertainment** — live brand site for a record label and creative agency
+- **Sally Braids** — live site for a hair braiding business
+- **Nick's Home Reno** — live site for a renovation business
+
+See more on [Instagram](https://instagram.com/codeculpt) · [LinkedIn](https://linkedin.com/company/codeculpt)
+
+*More builds added as they go live.*
+
 
 ## Let's Build Something
 
